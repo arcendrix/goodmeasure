@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Good Measure Compass Mark</title>
+  <desc id="desc">A refined compass and measurement mark for Good Measure.</desc>
+  <rect width="160" height="160" rx="0" fill="#12110f"/>
+  <circle cx="80" cy="80" r="54" fill="none" stroke="#b9965f" stroke-width="4"/>
+  <circle cx="80" cy="80" r="38" fill="none" stroke="#b9965f" stroke-width="1.5" opacity="0.5"/>
+  <path d="M80 20v18M80 122v18M20 80h18M122 80h18" stroke="#d8bb7a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 38 L98 98 L80 88 L62 98 Z" fill="#d8bb7a"/>
+  <path d="M80 38 L80 88" stroke="#12110f" stroke-width="2" opacity="0.55"/>
+  <circle cx="80" cy="80" r="6" fill="#12110f" stroke="#d8bb7a" stroke-width="3"/>
+  <path d="M52 108c13 11 34 13 50 1" fill="none" stroke="#d8bb7a" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M55 53c10-12 31-17 49-4" fill="none" stroke="#d8bb7a" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+</svg>
